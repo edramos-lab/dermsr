@@ -42,6 +42,7 @@ dev = ["pytest>=7.0", "scipy>=1.8"]
 [project.urls]
 Homepage = "https://github.com/edramos-lab/dermsr"
 Paper = "https://github.com/edramos-lab/derms-r"
+DOI = "https://doi.org/10.5281/zenodo.23442777"
 
 [tool.setuptools.packages.find]
 where = ["src"]

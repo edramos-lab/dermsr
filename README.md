@@ -1,5 +1,7 @@
 # dermsr
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23442777.svg)](https://doi.org/10.5281/zenodo.23442777)
+
 A reference implementation of **DERMS-R** (Data-Efficient Robust Model
 Score with Ratio-based data efficiency), a multi-objective score for
 neural architecture selection that jointly accounts for predictive
@@ -114,8 +116,12 @@ pytest  # runs the unit tests AND the doctests in src/dermsr (see pyproject.toml
 
 ## Citing
 
-See `CITATION.cff`. The paper does not yet have a persistent DOI; update
-`CITATION.cff` (and this README) once an archived release is made.
+Archived on Zenodo: [10.5281/zenodo.23442777](https://doi.org/10.5281/zenodo.23442777)
+(concept DOI, always resolves to the latest version;
+[10.5281/zenodo.23442778](https://doi.org/10.5281/zenodo.23442778) is the
+version-specific DOI for v0.1.0). See `CITATION.cff` for the full
+citation, including the companion paper, which does not yet have its own
+DOI.
 
 ## License
 
