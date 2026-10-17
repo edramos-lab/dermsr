@@ -40,7 +40,8 @@ stats = ["scipy>=1.8"]
 dev = ["pytest>=7.0", "scipy>=1.8"]
 
 [project.urls]
-Homepage = "https://github.com/edramos-lab/derms-r"
+Homepage = "https://github.com/edramos-lab/dermsr"
+Paper = "https://github.com/edramos-lab/derms-r"
 
 [tool.setuptools.packages.find]
 where = ["src"]
